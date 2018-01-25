@@ -1,0 +1,21 @@
+# 0. Introduction
+
+Welcome to the wild world of fantasy toxins. This work is intended to be a general purpose reference guide for budding fantasy toxicologists, be they world-builders, role-players, authors, etc., with an eye toward implementation in Fifth Edition Dungeons and Dragons. In the process of outlining all of the ways fantasy toxins can kill, maim, and weaken, or, if you're lucky, strengthen, enhance, and preserve, you can expect a working, if not expert, understanding of the ways these things happen in the real world. The bonus is that you get a plausible extrapolation into fantasy. That said, while the work endeavors to present toxins with a factual backing, it is well beyond the scope of the work to delve into the precise mechanisms behind every toxin. It will not, in other words, fully satisfy anyone who has expertise in this field, but it is my sincere hope that where these complex topics are simplified and liberties taken to effect useful distinctions, any experts who stumble across this work recognize the exigencies that gave rise to such simplifications and liberties. Wherever these liberties and simplifications stray into misconception or untruth, I also hope that such experts can spare the time to help make this better.
+
+In case the above isn't clear enough, here's what I'm saying: I can definitely use expert input on this, and I welcome any and all collaborators who have something they can contribute. See [the README](https://github.com/HilltownStudios/toxinomicon/blob/master/README.md) for more information on how to get involved.
+
+## Structure of the text
+
+The work is structured thematically. 
+
+* [Part 1] offers an overview of toxins and a simplified and incomplete discussion about how they work.
+* [Part 2] describes the structure of a toxin listing, outlines approaches to creating your own, and includes a few sample toxins to reference.
+* [Part 3] dives into a taxonomy of fantasy toxicology, hopefully explaining in sufficient detail what the various options are for the values that appear in a toxin listing. Some 5e D&D terminology is used here, but where possible this is captured in more detail in [Part 4].
+* [Part 4] attempts to translate effects from clinical language to 5e D&D mechanical terminology.
+* [Part 5] provides a set of tables you can use to generate your own toxin listings randomly. 
+
+## What isn't included here
+
+Out of scope for this work is toxin naming, primarily due to ignorance on the author's part. I assume there is a method behind toxin naming that relates to some extent to the mechanism and effects of the toxin, but that's just a guess. If you need assistance with naming a toxin, you could start with the various taxonomic prefixes you find in this document, but that will only take you so far. 
+
+The second out of scope item is system implementation in anything but Fifth Edition D&D, and to the extent possible, I have isolated those details in [Part 4], though by necessity some aspects appear in [Part 3].
